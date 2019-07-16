@@ -1,0 +1,12 @@
+\t (00:00:13) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:13)     Journal start - Tue Jul 16 17:35:01 2019
+\t (00:00:13)         Host=USER-PC User=user Pid=2972 CPUs=4
+\t (00:00:13) CmdLine= allegro.exe -p .
+\t (00:00:13) 
+\d (00:00:13) Design opened: C:/Users/user/Desktop/work/pcb_lib/psm/teee.brd
+\i (00:00:13) generaledit 
+\i (00:00:14) save_as 
+\i (00:00:33) fillin "Footprint.brd"
+\i (00:00:34) generaledit 
+\i (00:00:38) exit 
+\t (00:00:38)     Journal end - Tue Jul 16 17:35:26 2019

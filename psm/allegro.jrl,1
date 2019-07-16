@@ -1,0 +1,84 @@
+\t (00:00:28) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:28)     Journal start - Tue Jul 16 17:33:48 2019
+\t (00:00:28)         Host=USER-PC User=user Pid=5536 CPUs=4
+\t (00:00:28) CmdLine= allegro.exe -p .
+\t (00:00:28) 
+\d (00:00:28) Design opened: C:/Users/user/Desktop/work/pcb_lib/psm/teee.brd
+\i (00:00:28) generaledit 
+\i (00:00:29) pick grid 75.724 35.153
+\t (00:00:29) last pick:  75.565 34.925
+\i (00:00:35) open 
+\i (00:00:37) fillin "test.brd"
+\t (00:00:37) Opening existing design...
+\i (00:00:37) trapsize 183
+\d (00:00:37) Design opened: C:/Users/user/Desktop/work/pcb_lib/psm/test.brd
+\i (00:00:37) generaledit 
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out -3.275 10.888
+\i (00:00:38) trapsize 358
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 20.271 8.819
+\i (00:00:38) trapsize 358
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 20.271 8.819
+\i (00:00:38) trapsize 358
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 20.271 8.819
+\i (00:00:38) trapsize 358
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 20.271 8.819
+\i (00:00:38) trapsize 358
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 20.558 8.604
+\i (00:00:38) trapsize 358
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 20.414 8.318
+\i (00:00:38) trapsize 358
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 20.057 8.103
+\i (00:00:38) trapsize 358
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 18.983 7.960
+\i (00:00:38) trapsize 358
+\i (00:00:40) zoom in 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in 40.953 3.022
+\i (00:00:40) trapsize 179
+\i (00:00:40) zoom in 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in 6.352 3.093
+\i (00:00:40) trapsize 89
+\i (00:00:40) zoom in 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in 6.281 3.148
+\i (00:00:40) trapsize 45
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 5.440 3.192
+\i (00:00:40) trapsize 89
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 4.975 3.193
+\i (00:00:40) trapsize 179
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 0.806 3.157
+\i (00:00:40) trapsize 358
+\i (00:01:01) open 
+\i (00:01:03) fillin "teee.brd"
+\t (00:01:03) Opening existing design...
+\t (00:01:03) Grids are drawn 2.540, 2.540 apart for enhanced viewability.
+\i (00:01:03) trapsize 326
+\d (00:01:03) Design opened: C:/Users/user/Desktop/work/pcb_lib/psm/teee.brd
+\i (00:01:03) generaledit 
+\i (00:01:11) exit 
+\t (00:01:11)     Journal end - Tue Jul 16 17:34:31 2019
