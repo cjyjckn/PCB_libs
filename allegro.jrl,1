@@ -1,0 +1,20 @@
+\t (00:00:03) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:03)     Journal start - Wed Jul 17 10:08:24 2019
+\t (00:00:03)         Host=USER-PC User=user Pid=1404 CPUs=4
+\t (00:00:03) CmdLine= allegro.exe -p .
+\t (00:00:03) 
+   (00:00:03) ilinit Start.
+   (00:00:03) "C:/Users/user/Downloads/vscode_orcad/home/pcbenv"
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 1627
+\i (00:00:04) trapsize 1598
+\i (00:00:04) trapsize 1632
+\i (00:00:05) trapsize 1718
+\i (00:00:05) trapsize 2685
+\i (00:00:05) generaledit 
+\i (00:00:55) new 
+\e (00:00:55) Do you want to save the changes you made to PBGA_256_3.dra?
+\i (00:00:59) fillin yes 
+\e (00:01:00) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:01:39) newdrawfillin "PBGA_256_27.dra" "Package Symbol (Wizard)"
+\t (00:01:39)     Journal end - Wed Jul 17 10:10:00 2019
